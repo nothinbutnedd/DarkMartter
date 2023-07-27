@@ -20,13 +20,13 @@ button {
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
-	--background-image: url('https://i.imgur.com/7SbtKvw.png');
+	--background-image: url('https://files.catbox.moe/76f6fd.png');
 	--home-image: url('https://i.imgur.com/233d55Y.gif');
-	--background-solid: #161921;
-	--background-solid-dark: #101218;
-	--background-solid-darker: #0c0e12;
-	--accent: 37, 172, 232;
-	--accent-alt: 29, 101, 134;
+	--background-solid: #0b0b0d;
+	--background-solid-dark: #0c0e12;
+	--background-solid-darker: #0b0b0d;
+	--accent: 11, 16, 23;
+	--accent-alt: 13, 13, 20;
 	--md-black: 0, 0, 0;
 	--dm-white: 255, 255, 255;
 	/* BlurpleRecolor */
