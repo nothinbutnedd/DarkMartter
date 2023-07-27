@@ -10,15 +10,15 @@
 
 /* Variables */
 :root {
-    avatar-size: 32px;
-    background-image: url('https://files.catbox.moe/76f6fd.png');
-    home-image: url('https://i.imgur.com/233d55Y.gif');
-    background-solid: #0b0b0d;
-    background-solid-dark: #0c0e12; 
-    background-solid-darker: #0b0b0d;
-    accent: 11, 16, 23;
-    accent-alt: 13, 13, 20;
-    scrollbar-color: rgba(200, 200, 200, 0.2);
-    context-menu-font-color: rgba(200, 200, 200, 1);
-    context-menu-transparency: rgba(40, 40, 40, 1);
+    --avatar-size: 32px;
+    --background-image: url('https://files.catbox.moe/76f6fd.png');
+    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --background-solid: #0b0b0d;
+    --background-solid-dark: #0c0e12; 
+    --background-solid-darker: #0b0b0d;
+    --accent: 11, 16, 23;
+    --accent-alt: 13, 13, 20;
+    --scrollbar-color: rgba(200, 200, 200, 0.2);
+    --context-menu-font-color: rgba(200, 200, 200, 1);
+    --context-menu-transparency: rgba(40, 40, 40, 1);
 }
