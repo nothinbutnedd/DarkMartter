@@ -3,6 +3,7 @@ A less frosty version of Dark Matter
 > This is a remake of the remake the original Dark Matter theme by [cosmicsalad](https://github.com/DiscordStyles/DarkMatter) (by Gibbu).
 
 ![Preview](https://files.catbox.moe/3xbhtc.png)
+add to Vencord with this Link ``https://raw.githubusercontent.com/nadeoki/DarkMatter_Edited/main/DarkMatter.theme.css``
 
 ## Credits
 * Hammock for making the original theme.
