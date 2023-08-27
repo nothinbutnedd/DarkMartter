@@ -4,7 +4,7 @@ A less frosty version of Dark Matter
 
 add to Vencord with this Link ``https://raw.githubusercontent.com/nadeoki/DarkMatter_Edited/main/DarkMatter.theme.css``
 
-![Preview](https://files.catbox.moe/3xbhtc.png)
+![Preview](https://files.catbox.moe/qsb5bo.png)
 
 ## Credits
 * Hammock for making the original theme.
