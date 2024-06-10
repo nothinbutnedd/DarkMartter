@@ -7,6 +7,10 @@ add this Link to Vencord Themes ``https://raw.githubusercontent.com/nadeoki/Dark
 
 ![Preview](https://files.catbox.moe/j0cpwh.png)
 
+## Download
+- BetterDiscord: https://betterdiscord.app/theme/Dark%20Matter
+- Vencord: `https://discordstyles.github.io/DarkMatter/DarkMatter.theme.css`
+
 ## Credits
 * Hammock for making the original theme.
 * Gibbu for the remake
