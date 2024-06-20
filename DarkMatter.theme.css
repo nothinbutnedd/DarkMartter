@@ -14,9 +14,9 @@
     --background-image: url('https://files.catbox.moe/76f6fd.png');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #000000;
-    --background-solid-dark: #ffea05; 
+    --background-solid-dark: #080808; 
     --background-solid-darker: #0a0a0a;
-    --accent: 8, 9, 10;
+    --accent: 4, 6, 7;
     --accent-alt: 13, 17, 14;
     --scrollbar-color: rgba(255, 234, 5, 1);
     --context-menu-font-color: rgba(255, 234, 5, 1);
