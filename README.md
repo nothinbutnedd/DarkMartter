@@ -1,12 +1,11 @@
 # Dark Matter
-A cold, dark & frosty theme.
-> This is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
+A cold, dark & frosty theme with true transparency.
+> This is a remake of [DarkMatter](https://github.com/DiscordStyles/DarkMatter) which is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
 
 ![Preview](https://i.imgur.com/wAwGlYY.png)
 
 ## Download
-- BetterDiscord: https://betterdiscord.app/theme/Dark%20Matter
-- Vencord: `https://discordstyles.github.io/DarkMatter/DarkMatter.theme.css`
+- Vencord: `https://raw.githubusercontent.com/froopy090/DarkMatter-Transparent/main/DarkMatter.theme.css`
 
 ## Credits
 * Hammock for making the original theme.
