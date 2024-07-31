@@ -5,9 +5,9 @@
     --avatar-size: 32px;
     --background-image: url('https://i.imgur.com/7SbtKvw.png');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
-    --background-solid: rgba(0, 15, 25, 0.5); /* Adjusted transparency */
-    --background-solid-dark: rgba(0, 10, 20, 0.25); /* Adjusted transparency */
-    --background-solid-darker: rgba(0, 5, 15, 0.2); /* Adjusted transparency */
+    --background-solid: rgba(0, 10, 20, 0.5); /* Adjusted transparency */
+    --background-solid-dark: rgba(0, 5, 15, 0.25); /* Adjusted transparency */
+    --background-solid-darker: rgba(0, 3, 10, 0.2); /* Adjusted transparency */
     --accent: 37, 172, 232;
     --accent-alt: 29, 101, 134;
 }
